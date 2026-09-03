@@ -1,5 +1,5 @@
 ---
-title: プライバシーポリシー
+title: eigolock-privacy
 ---
 
 # プライバシーポリシー
