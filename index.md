@@ -1,6 +1,11 @@
 ---
 title: eigolock-privacy
 ---
+<style>
+.container-lg > h1:first-child {
+  display: none;
+}
+</style>
 
 # プライバシーポリシー
 
